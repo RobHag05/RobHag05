@@ -22,3 +22,6 @@
 #### - Warhammer
 ####   - Warhammer 30k, Horus Heresy
 ####   - Warhammer 40k, 13th Black Crusade
+
+## Hvorfor jeg valgte IT & medieproduksjon.
+#### IM virket interessant for meg fordi jeg er veldig aktiv innen gaming, hvor det kunne vært interessant å lære hvordan en PC fungerer, hvordan jeg kan bygge en selv, hvordan man lager nettsider og kan få en robot til å bevege seg gjennom noen få setninger.
