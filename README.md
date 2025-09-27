@@ -1,5 +1,5 @@
 # Robert Hagmansen
-#### 20 år, det her er en liten liste over mine interesser.
+#### Jeg er 20 år, og dette er en liten liste over mine interesser.
 
 ## - Ishockey 
 #####     - NHL
@@ -21,6 +21,7 @@
 #####     - Minecraft
 
 ## - Warhammer
+#####     - Male Warhammer
 #####     - Warhammer 30k, Horus Heresy
 #####     - Warhammer 40k, 13th Black Crusade
 
