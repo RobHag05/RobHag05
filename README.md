@@ -18,10 +18,10 @@
 ## - Gaming
 #####     - Destiny 2
 #####     - Kingdom Come Deliverance 2
-#####     - Minecraft
+#####     - Squad
 
 ## - Warhammer
-#####     - Male Warhammer
+#####     - Male Warhammer minifigurer
 #####     - Warhammer 30k, Horus Heresy
 #####     - Warhammer 40k, 13th Black Crusade
 
